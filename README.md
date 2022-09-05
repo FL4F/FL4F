@@ -1,7 +1,7 @@
 ### Olá, me chamo Flávio Soares
 
 - 🔭 Hoje estou fazendo faculdade de Engenharia de Software
-- 🌱 Atualmente estou estudadndo Python
+- 🌱 Atualmente estou estudando Python
 
 <div align="center">
   <a href="https://github.com/FL4F">
